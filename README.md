@@ -8,6 +8,13 @@ also makes graph and plot data that was entered.
 * Time in Minutes
 * Type of Workout
 
+### Calories Caculation
+
+``` js
+getCalories(intensity, time){
+    return (((intensity * 60) / 60) * time).toFixed(0);
+  }
+```
 
 ## Navigation Link
 ```
