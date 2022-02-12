@@ -9,4 +9,4 @@ https://activityrecoder.aryanbhalla.com/
 ```
 
 
-<img src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png">
+<img src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png" width="50">
