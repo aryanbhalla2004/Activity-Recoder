@@ -6,7 +6,7 @@ also makes graph and plot data that was entered.
 ### Reqiured Fields
 * Description of the Workout
 * Time in Minutes
-* Type of Workout
+* Intensity
 
 ### Calories Caculation
 
