@@ -9,5 +9,5 @@ https://activityrecoder.aryanbhalla.com/
 ```
 
 
-<img src="https://p1.hiclipart.com/preview/951/574/485/react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends-png-clipart-thumbnail.jpg" width="100"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="100">
+<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="200">
 
