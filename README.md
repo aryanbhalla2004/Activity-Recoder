@@ -3,6 +3,12 @@
 This web application recored you workout details and calculate you calories that were burned. It
 also makes graph and plot data that was entered.
 
+### Reqiured Files
+* Description of the Workout
+* Time in Minutes
+* Type of Workout
+
+
 ## Navigation Link
 ```
 https://activityrecoder.aryanbhalla.com/
