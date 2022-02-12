@@ -3,7 +3,7 @@
 This web application recored you workout details and calculate you calories that were burned. It
 also makes graph and plot data that was entered.
 
-Navigation Link
+## Navigation Link
 ```
 https://activityrecoder.aryanbhalla.com/
 ```
